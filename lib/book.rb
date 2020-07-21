@@ -6,4 +6,5 @@ end
 
 end
 
-# title = Book.title("And Then There Were None")
+title = Book.title("And Then There Were None")
+Book.title
