@@ -43,7 +43,6 @@ def cobble=(cobble)
 end
 
 def cobble
-  if new
     puts "Your shoe is as good as new!"
 
 end
