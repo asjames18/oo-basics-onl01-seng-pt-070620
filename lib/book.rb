@@ -1,6 +1,6 @@
 class Book
 
-def initialize(title)
+def initialize(title, brand)
   @title = title
 end
 
@@ -38,4 +38,6 @@ end
 def turn_page
   puts "Flipping the page...wow, you read fast!"
 end
+
+
 end
