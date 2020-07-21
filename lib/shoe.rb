@@ -47,6 +47,6 @@ def cobble
 end
 
 def condition
-  "new"
+  "tattered"
 end
 end
