@@ -44,7 +44,7 @@ end
 
 def cobble
   if "Your shoe is as good as new!"
-    puts new
+    puts "new"
 end
 
 end
