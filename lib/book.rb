@@ -4,8 +4,9 @@ def initialize(title)
   @title = title
 end
 
-def title
-  puts "And Then There Were None"
+def title=(title)
+  @title = title
+
 end
 
 end
