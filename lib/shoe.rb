@@ -48,5 +48,6 @@ end
 
 def condition
   "tattered"
+else "new"
 end
 end
